@@ -13,8 +13,5 @@ This is a Python-based networking tool designed to resolve domain names to IP ad
 3. The program will display the IP and tell you which ports are open.
 4. Type `exit` to stop.
 
-## Screenshot
-![Screenshot](screenshot.png)
-
 ## Note for Users
 This tool is for educational use and ethical hacking only.
